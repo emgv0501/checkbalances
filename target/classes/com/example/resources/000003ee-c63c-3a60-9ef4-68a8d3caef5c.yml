@@ -1,0 +1,37 @@
+timestamps:
+  login: 1623273313814
+  lastteleport: 1623277045246
+  logout: 1623277464226
+lastlocation:
+  world: world
+  x: -8222.618821235345
+  y: 77.0
+  z: 2766.3314634608355
+  yaw: -275.4603
+  pitch: -7.228179
+homes:
+  casa:
+    world: world
+    x: -8219.568690630591
+    y: 77.0
+    z: 2769.5176480696587
+    yaw: -252.2102
+    pitch: 22.321827
+  granjas:
+    world: world
+    x: -8414.598688741913
+    y: 63.0
+    z: 969.0569593083845
+    yaw: 262.69458
+    pitch: -11.549334
+logoutlocation:
+  world: world
+  x: -8421.296516770057
+  y: 63.0
+  z: 969.7949190836225
+  yaw: -199.74963
+  pitch: 17.8498
+money: '126431.58999999999946686'
+afk: false
+ip-address: 186.138.20.154
+last-account-name: keikey_w9
