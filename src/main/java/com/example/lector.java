@@ -69,8 +69,8 @@ public class lector {
                 e.printStackTrace();
             }
 
-        }
-
+        } else return;
+        
     }
 
 }
